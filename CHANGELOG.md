@@ -6,8 +6,9 @@ All releases: **2.2.x (current)** · [2.1.x](archive/changelog/2.1.md) · [2.0.x
 
 ## [Unreleased]
 
-## [2.2.2] - 2026-11-05
+## [2.2.3] - 2026-11-05
 
+- Fixed: on the Off and Classic window styles, the messenger button now settles into the window's top-left corner when it opens, the same way it does on the Retail style.
 - Fixed: Reset to Defaults no longer asks you to reload the interface when your window style didn't change.
 - Fixed: the phone-style window now grows smoothly out of the messenger button, and shrinks back into it when you close it.
 - New phone-style window, on by default: the messenger button grows into the window's top-left icon and opens a tall, phone-sized list of your chats. Click a chat to slide into it, and use the back arrow to slide back. The button keeps your unread count the whole time, and dragging the window takes the button with it.
