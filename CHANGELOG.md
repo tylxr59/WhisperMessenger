@@ -6,8 +6,9 @@ All releases: **2.2.x (current)** · [2.1.x](archive/changelog/2.1.md) · [2.0.x
 
 ## [Unreleased]
 
-## [2.2.0] - 2026-11-05
+## [2.2.1] - 2026-11-05
 
+- Fixed: the phone-style window now grows smoothly out of the messenger button, and shrinks back into it when you close it.
 - New phone-style window, on by default: the messenger button grows into the window's top-left icon and opens a tall, phone-sized list of your chats. Click a chat to slide into it, and use the back arrow to slide back. The button keeps your unread count the whole time, and dragging the window takes the button with it.
 - Closing the phone-style window sends the icon back to where it came from. Settings open wider while they're showing, then the window returns to phone size. You can switch back to the classic window under Behavior settings.
 - New option in Behavior settings, off by default: Deselect chat input after sending. After you send a message, the cursor leaves the text box so your keys control the game again, and Enter puts it back while the messenger is open.
