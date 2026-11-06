@@ -6,6 +6,10 @@ All releases: **2.2.x (current)** · [2.1.x](archive/changelog/2.1.md) · [2.0.x
 
 ## [Unreleased]
 
+- Fixed: Copy Character Name in the right-click menu of a chat or a message no longer shows an error. It opens a small box with the name selected, ready to copy with Ctrl+C. In WoW: Forever it copies the name without the realm, like the game's own menu does.
+- Fixed: In WoW: Forever, a Battle.net friend's character name at the top of the chat no longer ends in a long server code.
+- Right-clicking a player in the contact list now offers "Guild invite" when you're allowed to invite: it types the invite command into your chat box, and you press Enter to send it. It's hidden for your guildmates, and (with "Show player levels" on) for players the game has shown you in another guild this session.
+
 ## [2.2.3] - 2026-11-05
 
 - Fixed: on the Off and Classic window styles, the messenger button now settles into the window's top-left corner when it opens, the same way it does on the Retail style.

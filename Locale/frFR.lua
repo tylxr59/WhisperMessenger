@@ -513,6 +513,7 @@ local French = {
   ["Copy profile link"] = "Copier le lien du profil",
   ["Armory"] = "Armurerie",
   ["Press Ctrl+C to copy the link."] = "Appuyez sur Ctrl+C pour copier le lien.",
+  ["Press Ctrl+C to copy the name."] = "Appuyez sur Ctrl+C pour copier le nom.",
   -- Behavior page: Set keybind button
   ["Set keybind…"] = "Définir un raccourci…",
   ["Not bound"] = "Non assigné",
@@ -520,6 +521,8 @@ local French = {
   ["This game version can't open Key Bindings from here. Use the game menu instead."] = "Cette version du jeu ne peut pas ouvrir les raccourcis d'ici. Passez par le menu du jeu.",
   -- Contact menu: Add friend
   ["Add friend"] = "Ajouter en ami",
+  -- Contact menu: Guild invite
+  ["Guild invite"] = "Inviter dans la guilde",
 }
 
 ns.Locale_frFR = French

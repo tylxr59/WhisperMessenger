@@ -513,6 +513,7 @@ local German = {
   ["Copy profile link"] = "Profillink kopieren",
   ["Armory"] = "Arsenal",
   ["Press Ctrl+C to copy the link."] = "Strg+C drücken, um den Link zu kopieren.",
+  ["Press Ctrl+C to copy the name."] = "Strg+C drücken, um den Namen zu kopieren.",
   -- Behavior page: Set keybind button
   ["Set keybind…"] = "Tastenbelegung festlegen…",
   ["Not bound"] = "Nicht belegt",
@@ -520,6 +521,8 @@ local German = {
   ["This game version can't open Key Bindings from here. Use the game menu instead."] = "Diese Spielversion kann die Tastenbelegung nicht von hier öffnen. Nutze stattdessen das Spielmenü.",
   -- Contact menu: Add friend
   ["Add friend"] = "Als Freund hinzufügen",
+  -- Contact menu: Guild invite
+  ["Guild invite"] = "In Gilde einladen",
 }
 
 ns.Locale_deDE = German

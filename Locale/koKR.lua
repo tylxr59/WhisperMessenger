@@ -513,6 +513,7 @@ local Korean = {
   ["Copy profile link"] = "프로필 링크 복사",
   ["Armory"] = "전투정보실",
   ["Press Ctrl+C to copy the link."] = "Ctrl+C를 눌러 링크를 복사하세요.",
+  ["Press Ctrl+C to copy the name."] = "Ctrl+C를 눌러 이름을 복사하세요.",
   -- Behavior page: Set keybind button
   ["Set keybind…"] = "단축키 설정…",
   ["Not bound"] = "지정 안 됨",
@@ -520,6 +521,8 @@ local Korean = {
   ["This game version can't open Key Bindings from here. Use the game menu instead."] = "이 게임 버전에서는 여기서 단축키 설정을 열 수 없습니다. 게임 메뉴를 이용하세요.",
   -- Contact menu: Add friend
   ["Add friend"] = "친구 추가",
+  -- Contact menu: Guild invite
+  ["Guild invite"] = "길드 초대",
 }
 
 ns.Locale_koKR = Korean

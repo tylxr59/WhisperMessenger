@@ -513,6 +513,7 @@ local TraditionalChinese = {
   ["Copy profile link"] = "複製角色資料連結",
   ["Armory"] = "英雄榜",
   ["Press Ctrl+C to copy the link."] = "按 Ctrl+C 複製連結。",
+  ["Press Ctrl+C to copy the name."] = "按 Ctrl+C 複製名字。",
   -- Behavior page: Set keybind button
   ["Set keybind…"] = "設定快捷鍵…",
   ["Not bound"] = "未綁定",
@@ -520,6 +521,8 @@ local TraditionalChinese = {
   ["This game version can't open Key Bindings from here. Use the game menu instead."] = "此遊戲版本無法從這裡開啟按鍵設定。請使用遊戲選單。",
   -- Contact menu: Add friend
   ["Add friend"] = "加為好友",
+  -- Contact menu: Guild invite
+  ["Guild invite"] = "邀請加入公會",
 }
 
 ns.Locale_zhTW = TraditionalChinese
