@@ -6,6 +6,8 @@ All releases: **2.1.x (current)** · [2.0.x](archive/changelog/2.0.md) · [1.4.x
 
 ## [Unreleased]
 
+- New phone-style window, on by default: the messenger button grows into the window's top-left icon and opens a tall, phone-sized list of your chats. Click a chat to slide into it, and use the back arrow to slide back. The button keeps your unread count the whole time, and dragging the window takes the button with it.
+- Closing the phone-style window sends the icon back to where it came from. Settings open wider while they're showing, then the window returns to phone size. You can switch back to the classic window under Behavior settings.
 - New option in Behavior settings, off by default: Deselect chat input after sending. After you send a message, the cursor leaves the text box so your keys control the game again, and Enter puts it back while the messenger is open.
 - Smaller download, and the addon now uses less memory by keeping only your language loaded.
 - Changing to a language that isn't loaded now asks you to reload the interface.
